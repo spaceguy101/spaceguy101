@@ -97,11 +97,6 @@
 ## Recent Blog Posts  
   
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sa6oeqfr3ehdozz3e5szmmehvy&cover_image=true" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=spaceguy101&&style=flat-square" align="center" />
