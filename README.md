@@ -4,8 +4,6 @@
 
 - Technology Enthusiast 🚀  
   
-- Entrepreneur 💼  
-  
 <br/>  
 
 
