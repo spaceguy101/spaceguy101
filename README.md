@@ -1,18 +1,11 @@
 ### Hi There 👋, I'm Shreyas  
   
-
-- A Passionate Software Developer 💻  
-  
+- A Passionate Software Engineer 💻  
 
 - Technology Enthusiast 🚀  
   
-
 - Entrepreneur 💼  
   
-
-  
-  
-
 <br/>  
 
 
@@ -92,17 +85,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=spaceguy101&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=spaceguy101&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
